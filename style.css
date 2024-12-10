@@ -134,12 +134,15 @@ body {
 .course img {
     width: 100px;
     margin-bottom: 15px;
-   ;
+ 
 }
 
 .course h4 {
     font-size: 18px;
     margin-top: 10px;
+}
+.course:hover{
+    background-color: aquamarine;
 }
 
 .footer {
